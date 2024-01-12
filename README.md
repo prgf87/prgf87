@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently enjoying discovering the new **Foundational C# with Microsoft and freeCodeCamp**, completing the last few modules on **freeCodeCamp's JavaScript Algorithms and Data Structures** course and looking forward to building a new front-end for the exciting revamp of a real-world monolith.
 
-- 👨‍💻 All of my projects are displayed at *[https://www.globalwebsystems.co.uk](https://www.globalwebsystems.co.uk)*
+- 👨‍💻 All of my projects are displayed on *[my website](https://www.globalwebsystems.co.uk)*
 
-- 📄 You can connect with me on LinkedIn *[www.linkedin.com/in/prgf87/](www.linkedin.com/in/prgf87/)*
+- 📄 You can connect with me on *[LinkedIn](www.linkedin.com/in/prgf87/)*
 
 - ⚡ Fun fact: **I am Portuguese, I can speak Danish, some French, a little Cantonese and I live in the UK. I have travelled over 50 countries and I cannot wait to see the rest!**
 
@@ -53,3 +53,5 @@
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/photoshop.svg" width='40' height='40' title='photoshop'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width='40' height='40' title='arduino'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
 <br><hr><br>
+
+Created with *[CodeCrafts' GitHub Profile Generator](https://ryantusi.github.io/Github_Profile_README_Generator/github.html)*
