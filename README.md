@@ -2,7 +2,6 @@
 
 <img width="100%" align="center" src="https://media.licdn.com/dms/image/D4E16AQF5VJC19EWP9A/profile-displaybackgroundimage-shrink_350_1400/0/1702290590408?e=1710374400&v=beta&t=kt1KPQwnI8tguuYIGM36Pg2TqYz5zA4_KwVKcrtXwRU" />
 
-<h5 align="center">Creating seamless user experiences by leveraging modern technologies with a deep focus on Design and UX</h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
 
