@@ -1,8 +1,3 @@
-
-
-<img width="100%" align="center" src="https://media.licdn.com/dms/image/D4E16AQF5VJC19EWP9A/profile-displaybackgroundimage-shrink_350_1400/0/1702290590408?e=1710374400&v=beta&t=kt1KPQwnI8tguuYIGM36Pg2TqYz5zA4_KwVKcrtXwRU" />
-
-
 <h2 align="left">Some Facts About Me</h2>
 
 - 🔭 I’m currently working on **a Notion database integration using NextJS and react-notion-x, including a custom made user area, an interactive chat bot, static site generation with instant search results on user input using the Notion API and media content delivery via CDN.**
