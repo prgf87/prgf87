@@ -1,17 +1,3 @@
-<h2 align="left">Some Facts About Me</h2>
-
-- 🔭 I’m currently working on **a Notion database integration using NextJS and react-notion-x, including a custom made user area, an interactive chat bot, static site generation with instant search results on user input using the Notion API and media content delivery via CDN.**
-
-- 🌱 I’m currently enjoying discovering the new **Foundational C# with Microsoft and freeCodeCamp**, completing the last few modules on **freeCodeCamp's JavaScript Algorithms and Data Structures** course and looking forward to building a new front-end for the exciting revamp of a real-world monolith.
-
-- 👨‍💻 All of my projects are displayed on *[my website](https://www.globalwebsystems.co.uk)*
-
-- 📄 You can connect with me on *[LinkedIn](www.linkedin.com/in/prgf87/)*
-
-- ⚡ Fun fact: **I am Portuguese, I can speak Danish, some French, a little Cantonese and I live in the UK. I have travelled over 50 countries and I cannot wait to see the rest!**
-
-<h2 align="left">Skillset</h2>
-
 <h3 align="left">Programming Languages:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
